@@ -1,0 +1,17 @@
+[
+    {
+        "nume": "peste",
+        "pret": 10,
+        "cantitate": 0
+    },
+    {
+        "nume": "salam",
+        "pret": 10,
+        "cantitate": 0
+    },
+    {
+        "nume": "parizer",
+        "pret": 10,
+        "cantitate": 1
+    }
+]
